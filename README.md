@@ -7,7 +7,7 @@
 - Key Features Explored: Wallet, Trading Charts, Dashboard
 
 ### Summary:
-I explored the BingX crypto exchange platform and found the UI/UX...
+I explored the CoinSwitch Kuber crypto exchange platform and found the UI/UX...
 
 
  ### 🔗 LinkedIn Post:
