@@ -10,5 +10,7 @@
 I explored the CoinSwitch Kuber crypto exchange platform and found the UI/UX...
 
 
- ### 🔗 LinkedIn Post:
+ ### 🔗 LinkedIn Post: task 1
 https://www.linkedin.com/posts/yugandhara-chhallare-640952250_crypto-blockchain-internship-activity-7343571774082617345-gofY?utm_source=share&utm_medium=member_ios&rcm=ACoAAD4TkhAB71sNX59ffrlL64ygaO9lIIvzfsc
+### LinkedIn Post: task 3
+https://www.linkedin.com/posts/yugandhara-chhallare-640952250_futureinterns-internship-activity-7344752027488378880-xWa7?utm_source=share&utm_medium=member_ios&rcm=ACoAAD4TkhAB71sNX59ffrlL64ygaO9lIIvzfsc
