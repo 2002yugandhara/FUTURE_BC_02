@@ -1,4 +1,7 @@
 FUTURE INTERNS
+
+
+
 task 1
 As part of the Future Intern program, I signed up on a trusted crypto exchange (CoinSwitch Kuber / BingX). I completed the KYC verification process and explored key features of the platform.
  Platform Features Explored:
