@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+task 1
+As part of the Future Intern program, I signed up on a trusted crypto exchange (CoinSwitch Kuber / BingX). I completed the KYC verification process and explored key features of the platform.
+ Platform Features Explored:
+Wallets: Checked deposit and withdrawal options
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Market Charts: Viewed token prices and their movement
 
-## Available Scripts
+Buy/Sell Crypto: Explored how to trade various tokens
 
-In the project directory, you can run:
+Trading Dashboard: Navigated through charts, order history, and market pairs
 
-### `npm start`
+Security Settings: Explored 2FA, password settings, and account protection
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ 
+ linkedin:  task1
+ https://www.linkedin.com/posts/yugandhara-chhallare-640952250_crypto-blockchain-internship-activity-7343571774082617345-gofY?utm_source=share&utm_medium=member_ios&rcm=ACoAAD4TkhAB71sNX59ffrlL64ygaO9lIIvzfsc
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ task 3
+As part of the Future Interns program, I designed a meme/infographic/poster that explains a cryptocurrency concept or shares a funny blockchain insight. This task blended creativity with education, allowing me to simplify complex ideas like "What is Bitcoin?" or "How Blockchain Works" through visuals.
 
-### `npm test`
+https://www.linkedin.com/posts/yugandhara-chhallare-640952250_futureinterns-internship-activity-7344752027488378880-xWa7?utm_source=share&utm_medium=member_ios&rcm=ACoAAD4TkhAB71sNX59ffrlL64ygaO9lIIvzfsc
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ task5
+In this task, I built a Crypto Portfolio Tracker using React.js (or Google Sheets), which fetches live token prices from the CoinGecko API and calculates the total value of the portfolio based on user input.
+React.js (or Google Sheets + Apps Script)
 
-### `npm run build`
+CoinGecko API for real-time crypto prices
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+GitHub for version control and code hosting
+task5
+ https://www.linkedin.com/posts/yugandhara-chhallare-640952250_futureinterns-activity-7349455166493880320-1guW?utm_source=share&utm_medium=member_ios&rcm=ACoAAD4TkhAB71sNX59ffrlL64ygaO9lIIvzfsc
