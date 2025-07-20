@@ -14,6 +14,15 @@ Security Settings: Explored 2FA, password settings, and account protection
  
  https://www.linkedin.com/posts/yugandhara-chhallare-640952250_crypto-blockchain-internship-activity-7343571774082617345-gofY?utm_source=share&utm_medium=member_ios&rcm=ACoAAD4TkhAB71sNX59ffrlL64ygaO9lIIvzfsc
 
+task :2
+
+Create and deploy your own ERC-20 or BEP-20 token on a testnet like Polygon Amoy or BNB Chain Testnet using Solidity in Remix and MetaMask. Use OpenZeppelin for secure contract templates and get free testnet tokens via faucets.
+Tools: Remix, MetaMask, OpenZeppelin, Polygon/BNB Faucet
+Deliverables: GitHub contract link, testnet token address, MetaMask screenshot, and explorer link
+
+https://www.linkedin.com/posts/yugandhara-chhallare-640952250_task-02-summary-build-a-free-crypto-token-activity-7352730257814106112-h60V?utm_source=share&utm_medium=member_ios&rcm=ACoAAD4TkhAB71sNX59ffrlL64ygaO9lIIvzfsc
+
+
  task :3
 As part of the Future Interns program, I designed a meme/infographic/poster that explains a cryptocurrency concept or shares a funny blockchain insight. This task blended creativity with education, allowing me to simplify complex ideas like "What is Bitcoin?" or "How Blockchain Works" through visuals.
 
